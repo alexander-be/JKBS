@@ -177,6 +177,7 @@ section h2 {
 
 .process {
   display: flex;
+  height: 15em;
   justify-content: space-evenly;
   align-items: center;
   align-content: space-around;
@@ -377,7 +378,7 @@ section h2 {
   text-align: center;
 }
 
-.nails article {
+.nails-price {
   font-size: 18px;
   padding-right: 10px;
 }
